@@ -1,0 +1,8 @@
+C:\c#\buscar matris numero menor\buscar matris numero menor\bin\Debug\buscar matris numero menor.exe.config
+C:\c#\buscar matris numero menor\buscar matris numero menor\bin\Debug\buscar matris numero menor.exe
+C:\c#\buscar matris numero menor\buscar matris numero menor\bin\Debug\buscar matris numero menor.pdb
+C:\c#\buscar matris numero menor\buscar matris numero menor\obj\Debug\buscar matris numero menor.csproj.AssemblyReference.cache
+C:\c#\buscar matris numero menor\buscar matris numero menor\obj\Debug\buscar matris numero menor.csproj.SuggestedBindingRedirects.cache
+C:\c#\buscar matris numero menor\buscar matris numero menor\obj\Debug\buscar matris numero menor.csproj.CoreCompileInputs.cache
+C:\c#\buscar matris numero menor\buscar matris numero menor\obj\Debug\buscar matris numero menor.exe
+C:\c#\buscar matris numero menor\buscar matris numero menor\obj\Debug\buscar matris numero menor.pdb
