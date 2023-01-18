@@ -17,6 +17,7 @@ namespace tablas
         static void Main(string[] args)
         {
             int num1;
+            Console.Write("ingrese el numero de la tabla que desea saber: ");
             num1 = int.Parse(Console.ReadLine());
             for (int i= 1; i <= 10; i++)
             {
