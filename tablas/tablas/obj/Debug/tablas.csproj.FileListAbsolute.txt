@@ -1,0 +1,8 @@
+C:\c#\tablas\tablas\bin\Debug\tablas.exe.config
+C:\c#\tablas\tablas\bin\Debug\tablas.exe
+C:\c#\tablas\tablas\bin\Debug\tablas.pdb
+C:\c#\tablas\tablas\obj\Debug\tablas.csproj.AssemblyReference.cache
+C:\c#\tablas\tablas\obj\Debug\tablas.csproj.SuggestedBindingRedirects.cache
+C:\c#\tablas\tablas\obj\Debug\tablas.csproj.CoreCompileInputs.cache
+C:\c#\tablas\tablas\obj\Debug\tablas.exe
+C:\c#\tablas\tablas\obj\Debug\tablas.pdb
